@@ -694,6 +694,7 @@ hr{
   background-color: transparent;
   border: 2px solid #e7ddd4;
   padding: 10px 30px;
+  width: auto;
 }
 .peru-img button:hover{
   color: black;
